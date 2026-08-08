@@ -37,3 +37,14 @@ The dataset used is called "mallcustomers.csv". It includes features such as:
 - Income Level
 - SpendingScore
 
+The dataset is not mine to share.
+
+---
+
+## 🛠️ How to Run this Project:
+
+1. Clone this repository:
+
+git clone https://github.com/hunterbyars/Python-Machine-Learning-Project.git
+cd Python-Machine-Learning-Project
+
